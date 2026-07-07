@@ -1,0 +1,13 @@
+predic_consumo_agua.ipynb -> prueba de red neuronal, eliminar valores que no deberían ser analizados, se encuentra valores atípicos que no sirven para la predicción
+
+predic_consumo_agua_v2.ipynb -> prueba de una red neuronal eliminando valores atípicos y viendo mejoras, se confirma que son valores atípicos los que no dejan mejorar
+
+predic_consumo_agua_v3.ipynb -> prueba con XGBoost y se nota que mejora y se concluye que las redes neuronales no son las solución
+
+predic_consumo_agua_v4.ipynb -> prueba con XGBoost tunning y se observa mejoras al tener el modelo más óptimo en sus hiperparámetros
+
+predic_consumo_agua_v5.ipynb -> adicionar variables latitud y longitud porque las variables no logran describir la variable objetivo
+
+predic_consumo_agua_v6.ipynb -> se comprueba que hubo interpolación y que no sirve el modelo fuera de bogotá, pero serviría para predecir el consumo o bimestre en escenarios futuros de las localidades
+
+predic_consumo_agua_v7.ipynb -> se comprueba que hubo interpolación y que no sirve el modelo fuera de bogotá, pero serviría para predecir el consumo o bimestre en escenarios futuros de las localidades a diferencia de 6 se modificaron algunos parametros
