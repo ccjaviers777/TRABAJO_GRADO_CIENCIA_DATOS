@@ -1,0 +1,6 @@
+﻿esquema,estado,mejor_modelo,mejor_baseline,nota
+Validacion temporal 2024,No respaldada,XGBoost - con_latitud_longitud,Baseline - media localidad-bimestre,Comparacion principal sobre 117 registros de 2024.
+Origen movil,No respaldada,XGBoost_con_latitud_longitud,Baseline - media por localidad,Comparacion con promedios de cuatro iteraciones de origen movil.
+Particion aleatoria,Respaldada,XGBoost con_latitud_longitud,Baseline - media localidad-bimestre,Comparacion descriptiva; mezcla anos y no prueba generalizacion temporal estricta.
+LOLO todas las localidades,No respaldada,XGBoost_LOLO,Baseline - media por bimestre,Baselines compatibles con localidad no observada: media global y media por bimestre.
+LOLO sin Sumapaz,Parcialmente respaldada,XGBoost_LOLO,Baseline - media por bimestre,Baselines compatibles con localidad no observada: media global y media por bimestre.

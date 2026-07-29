@@ -1,0 +1,79 @@
+﻿escenario,localidad_test,baseline,modelo_o_baseline,n_train,n_test,MAE,RMSE,R2
+LOLO_todas_las_localidades,ANTONIO NARINO,media_global,Baseline - media global,452,30,1.0800572398327455,1.2435953457341204,-3.0697526655342458
+LOLO_todas_las_localidades,ANTONIO NARINO,media_bimestre,Baseline - media por bimestre,452,30,1.0635977344606942,1.1845541578680345,-2.6924930219771723
+LOLO_todas_las_localidades,BARRIOS UNIDOS,media_global,Baseline - media global,452,30,0.7896460429351542,0.9554217951302455,-1.3931288773609753
+LOLO_todas_las_localidades,BARRIOS UNIDOS,media_bimestre,Baseline - media por bimestre,452,30,0.8105638919235116,0.9511697363912177,-1.3718752670246142
+LOLO_todas_las_localidades,BOSA,media_global,Baseline - media global,452,30,2.373765220268063,2.386845797876629,-90.48694074696533
+LOLO_todas_las_localidades,BOSA,media_bimestre,Baseline - media por bimestre,452,30,2.357215522141529,2.395944955076594,-91.18580516555656
+LOLO_todas_las_localidades,CHAPINERO,media_global,Baseline - media global,452,30,1.3147450889649193,1.6272649665593275,-1.6823670944291509
+LOLO_todas_las_localidades,CHAPINERO,media_bimestre,Baseline - media por bimestre,452,30,1.3000697055441464,1.5906793630920926,-1.5631083004632398
+LOLO_todas_las_localidades,CIUDAD BOLIVAR,media_global,Baseline - media global,452,30,1.0334258283507056,1.113494267183964,-6.212714285439658
+LOLO_todas_las_localidades,CIUDAD BOLIVAR,media_bimestre,Baseline - media por bimestre,452,30,1.0167694556463576,1.1293046987579691,-6.418994146533979
+LOLO_todas_las_localidades,ENGATIVA,media_global,Baseline - media global,452,30,1.7617279512248654,1.8013534400445974,-21.98251174682825
+LOLO_todas_las_localidades,ENGATIVA,media_bimestre,Baseline - media por bimestre,452,30,1.7450811481057762,1.7993319086301867,-21.930957399818766
+LOLO_todas_las_localidades,FONTIBON,media_global,Baseline - media global,452,30,1.0820370771886316,1.2245634300666604,-2.8403861858496557
+LOLO_todas_las_localidades,FONTIBON,media_bimestre,Baseline - media por bimestre,452,30,1.0682872761852342,1.1822100520249992,-2.579329031319316
+LOLO_todas_las_localidades,KENNEDY,media_global,Baseline - media global,452,30,1.6122282924695646,1.6403769563676862,-28.38990454837039
+LOLO_todas_las_localidades,KENNEDY,media_bimestre,Baseline - media por bimestre,452,30,1.597641016137411,1.642803218305359,-28.476909357350056
+LOLO_todas_las_localidades,LA CANDELARIA,media_global,Baseline - media global,452,30,5.01343204282204,5.530228762529609,-4.612741216032562
+LOLO_todas_las_localidades,LA CANDELARIA,media_bimestre,Baseline - media por bimestre,452,30,5.026614146949441,5.495208700644973,-4.541881147982845
+LOLO_todas_las_localidades,LOS MARTIRES,media_global,Baseline - media global,452,30,0.5876689470104907,0.8774934333959743,-0.43541472255298275
+LOLO_todas_las_localidades,LOS MARTIRES,media_bimestre,Baseline - media por bimestre,452,30,0.6091111571277589,0.7731633204607514,-0.11437697719598461
+LOLO_todas_las_localidades,PUENTE ARANDA,media_global,Baseline - media global,452,30,4.388651316425591,4.512181918403981,-17.516887145968806
+LOLO_todas_las_localidades,PUENTE ARANDA,media_bimestre,Baseline - media por bimestre,452,30,4.403478404278655,4.502627252973494,-17.438550170436756
+LOLO_todas_las_localidades,RAFAEL URIBE URIBE,media_global,Baseline - media global,452,30,0.6540556920833605,0.7910107443846772,-1.5837045498676745
+LOLO_todas_las_localidades,RAFAEL URIBE URIBE,media_bimestre,Baseline - media por bimestre,452,30,0.6220750471284703,0.7741809929914467,-1.4749309925028427
+LOLO_todas_las_localidades,SAN CRISTOBAL,media_global,Baseline - media global,452,30,0.94299183318359,1.076154462690333,-3.307240015968664
+LOLO_todas_las_localidades,SAN CRISTOBAL,media_bimestre,Baseline - media por bimestre,452,30,0.9287409586254611,1.0746005493416704,-3.294810117188475
+LOLO_todas_las_localidades,SANTA FE,media_global,Baseline - media global,452,30,1.082517467662789,1.3244876655304818,-1.3188056630682659
+LOLO_todas_las_localidades,SANTA FE,media_bimestre,Baseline - media por bimestre,452,30,1.0137969727474923,1.2565681150695043,-1.087087162742372
+LOLO_todas_las_localidades,SUBA,media_global,Baseline - media global,452,30,1.9178006009095248,1.947036810124971,-32.5502711957995
+LOLO_todas_las_localidades,SUBA,media_bimestre,Baseline - media por bimestre,452,30,1.9025118074006688,1.9645418130207357,-33.15625631768909
+LOLO_todas_las_localidades,SUMAPAZ,media_global,Baseline - media global,456,26,8.226051723394844,10.626059278107668,-0.5961082293018234
+LOLO_todas_las_localidades,SUMAPAZ,media_bimestre,Baseline - media por bimestre,456,26,8.157030226849841,10.568977921425656,-0.5790062515181558
+LOLO_todas_las_localidades,TEUSAQUILLO,media_global,Baseline - media global,452,30,1.4768289433443618,1.597174177321079,-5.349167919210974
+LOLO_todas_las_localidades,TEUSAQUILLO,media_bimestre,Baseline - media por bimestre,452,30,1.454365663777367,1.5640605568743393,-5.0886271657182025
+LOLO_todas_las_localidades,TUNJUELITO,media_global,Baseline - media global,452,30,2.4488240123736142,2.563339215333448,-10.447846835408278
+LOLO_todas_las_localidades,TUNJUELITO,media_bimestre,Baseline - media por bimestre,452,30,2.461030000941926,2.55378902876563,-10.362703667660702
+LOLO_todas_las_localidades,USAQUEN,media_global,Baseline - media global,452,30,1.3804860787079902,1.4246201173520954,-15.393631444056293
+LOLO_todas_las_localidades,USAQUEN,media_bimestre,Baseline - media por bimestre,452,30,1.3691619396993724,1.4262857063772705,-15.431986952420687
+LOLO_todas_las_localidades,USME,media_global,Baseline - media global,452,30,1.683556344137062,1.705256718114315,-38.54255319343747
+LOLO_todas_las_localidades,USME,media_bimestre,Baseline - media por bimestre,452,30,1.6720603827788678,1.712178052024818,-38.86419700845961
+LOLO_sin_sumapaz,ANTONIO NARINO,media_global,Baseline - media global,432,30,0.7606169324498583,0.9697788351181003,-1.4748862545277204
+LOLO_sin_sumapaz,ANTONIO NARINO,media_bimestre,Baseline - media por bimestre,432,30,0.7446055852902731,0.9220781956944694,-1.2374088168276836
+LOLO_sin_sumapaz,BARRIOS UNIDOS,media_global,Baseline - media global,432,30,0.5573145510514483,0.7356800413482454,-0.41890639776358696
+LOLO_sin_sumapaz,BARRIOS UNIDOS,media_bimestre,Baseline - media por bimestre,432,30,0.5819493380153978,0.7023497830879737,-0.2932506464964859
+LOLO_sin_sumapaz,BOSA,media_global,Baseline - media global,432,30,2.041542754195654,2.056737309209859,-66.93100396919112
+LOLO_sin_sumapaz,BOSA,media_bimestre,Baseline - media por bimestre,432,30,2.03136882304772,2.0562144358479246,-66.89646888556797
+LOLO_sin_sumapaz,CHAPINERO,media_global,Baseline - media global,432,30,1.0404890584499433,1.377853520281893,-0.9231261083833362
+LOLO_sin_sumapaz,CHAPINERO,media_bimestre,Baseline - media por bimestre,432,30,1.0434043749723751,1.3249124786526993,-0.7781813240712001
+LOLO_sin_sumapaz,CIUDAD BOLIVAR,media_global,Baseline - media global,432,30,0.6998590645276728,0.8134514432655221,-2.8493378159633953
+LOLO_sin_sumapaz,CIUDAD BOLIVAR,media_bimestre,Baseline - media por bimestre,432,30,0.6895350916031545,0.8060258490944918,-2.779381193850198
+LOLO_sin_sumapaz,ENGATIVA,media_global,Baseline - media global,432,30,1.425661384878487,1.4743470507879715,-14.39568706661601
+LOLO_sin_sumapaz,ENGATIVA,media_bimestre,Baseline - media por bimestre,432,30,1.415375156974198,1.4644419342229857,-14.18951604716146
+LOLO_sin_sumapaz,FONTIBON,media_global,Baseline - media global,432,30,1.3887119698904702,1.522823343460045,-4.938973378166111
+LOLO_sin_sumapaz,FONTIBON,media_bimestre,Baseline - media por bimestre,432,30,1.3981676097296172,1.4897207324415023,-4.68358096721785
+LOLO_sin_sumapaz,KENNEDY,media_global,Baseline - media global,432,30,1.3267506066491115,1.3608172780305854,-19.22602247958331
+LOLO_sin_sumapaz,KENNEDY,media_bimestre,Baseline - media por bimestre,432,30,1.3171391757465192,1.3489866105489516,-18.87586938758568
+LOLO_sin_sumapaz,LA CANDELARIA,media_global,Baseline - media global,432,30,5.3411295877303955,5.828944552047487,-5.2354625300672755
+LOLO_sin_sumapaz,LA CANDELARIA,media_bimestre,Baseline - media por bimestre,432,30,5.347856902734791,5.804223897094743,-5.1826852730210335
+LOLO_sin_sumapaz,LOS MARTIRES,media_global,Baseline - media global,432,30,0.49874005110013964,0.7540743021119285,-0.060029441620068846
+LOLO_sin_sumapaz,LOS MARTIRES,media_bimestre,Baseline - media por bimestre,432,30,0.4984537642647122,0.6746985390354616,0.1513879672052154
+LOLO_sin_sumapaz,PUENTE ARANDA,media_global,Baseline - media global,432,30,4.71537910345561,4.830561600571262,-20.222181645028
+LOLO_sin_sumapaz,PUENTE ARANDA,media_bimestre,Baseline - media por bimestre,432,30,4.724194966327177,4.822807291158221,-20.154102074591236
+LOLO_sin_sumapaz,RAFAEL URIBE URIBE,media_global,Baseline - media global,432,30,0.3777458683996893,0.5573211555335684,-0.2825938187355266
+LOLO_sin_sumapaz,RAFAEL URIBE URIBE,media_bimestre,Baseline - media por bimestre,432,30,0.3619393429730157,0.5084665395378999,-0.06758593199473206
+LOLO_sin_sumapaz,SAN CRISTOBAL,media_global,Baseline - media global,432,30,0.6035455919523662,0.780123587726138,-1.2634800433385052
+LOLO_sin_sumapaz,SAN CRISTOBAL,media_bimestre,Baseline - media por bimestre,432,30,0.5780356510568907,0.7570899072851941,-1.1317916870942963
+LOLO_sin_sumapaz,SANTA FE,media_global,Baseline - media global,432,30,0.8185959718700739,1.078803782583769,-0.5383439113928306
+LOLO_sin_sumapaz,SANTA FE,media_bimestre,Baseline - media por bimestre,432,30,0.8038751442958385,1.0081958281574335,-0.34356384310869514
+LOLO_sin_sumapaz,SUBA,media_global,Baseline - media global,432,30,1.5593018224509854,1.5951223679177886,-21.518306218739205
+LOLO_sin_sumapaz,SUBA,media_bimestre,Baseline - media por bimestre,432,30,1.5495848125781073,1.5906344563896344,-21.391772981397647
+LOLO_sin_sumapaz,TEUSAQUILLO,media_global,Baseline - media global,432,30,1.2127711431996095,1.3421937527331824,-3.483763313882087
+LOLO_sin_sumapaz,TEUSAQUILLO,media_bimestre,Baseline - media por bimestre,432,30,1.184136746966298,1.3047001212306775,-3.2367580044180713
+LOLO_sin_sumapaz,TUNJUELITO,media_global,Baseline - media global,432,30,2.697853864901915,2.802210621215844,-12.680853635440522
+LOLO_sin_sumapaz,TUNJUELITO,media_bimestre,Baseline - media por bimestre,432,30,2.706668941372291,2.7871731818400947,-12.534417092180464
+LOLO_sin_sumapaz,USAQUEN,media_global,Baseline - media global,432,30,1.123668717141901,1.1774684926319945,-10.198906308416895
+LOLO_sin_sumapaz,USAQUEN,media_bimestre,Baseline - media por bimestre,432,30,1.1150735114631685,1.1709538662720334,-10.075327859369084
+LOLO_sin_sumapaz,USME,media_global,Baseline - media global,432,30,1.4297443975476432,1.4552345354301919,-27.797259155279
+LOLO_sin_sumapaz,USME,media_bimestre,Baseline - media por bimestre,432,30,1.420992403211709,1.4535254460091065,-27.729657420359988

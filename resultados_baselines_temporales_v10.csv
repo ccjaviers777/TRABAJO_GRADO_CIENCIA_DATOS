@@ -1,0 +1,9 @@
+﻿escenario,baseline,modelo_o_baseline,n_registros,MAE,RMSE,R2
+prueba_2024,media_global,Baseline - media global,117,1.9732167981920936,2.4716264611097176,-0.07831338976871605
+prueba_2024,media_localidad,Baseline - media por localidad,117,0.7842786586459662,1.149376775835764,0.7668130935255139
+prueba_2024,media_localidad_bimestre,Baseline - media localidad-bimestre,117,0.7131365506408356,0.9910727622533034,0.8266234299681222
+prueba_2024,seasonal_naive,Baseline - seasonal naive,117,1.1026892012561096,2.384286892879075,-0.0034514122092583754
+validacion_2023,media_global,Baseline - media global,120,1.7726378300314738,2.3246632032808066,-0.034141339448424235
+validacion_2023,media_localidad,Baseline - media por localidad,120,0.9226730260480802,2.695838071194729,-0.39074472416634976
+validacion_2023,media_localidad_bimestre,Baseline - media localidad-bimestre,120,1.0248567096862642,3.0152264207926267,-0.7398014023223782
+validacion_2023,seasonal_naive,Baseline - seasonal naive,120,1.018294469035151,3.1577148448484262,-0.908119783090821

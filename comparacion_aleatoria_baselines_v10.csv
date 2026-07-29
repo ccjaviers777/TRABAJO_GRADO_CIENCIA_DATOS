@@ -1,0 +1,7 @@
+﻿escenario,baseline,modelo_o_baseline,n_registros,MAE,RMSE,R2,tipo
+particion_aleatoria_v7_descriptiva,media_global,Baseline - media global,90,1.68631284896633,2.2569657336370925,-0.002078904722658592,baseline
+particion_aleatoria_v7_descriptiva,media_localidad,Baseline - media por localidad,90,0.5837304985710483,0.9235475951421898,0.8322082698117533,baseline
+particion_aleatoria_v7_descriptiva,media_localidad_bimestre,Baseline - media localidad-bimestre,90,0.5914232363160881,0.9127016001524784,0.8361261667426484,baseline
+particion_aleatoria_v7_descriptiva,seasonal_naive,Baseline - seasonal naive,90,0.7524882580764675,1.5430532550895963,0.5316033084448799,baseline
+particion_aleatoria_v7_descriptiva,,XGBoost con_latitud_longitud,90,0.42363276786833,0.7467014963067428,0.8903153049921977,modelo
+particion_aleatoria_v7_descriptiva,,XGBoost sin_latitud_longitud,90,1.531498484551631,2.1089549544289263,0.1250432295630447,modelo

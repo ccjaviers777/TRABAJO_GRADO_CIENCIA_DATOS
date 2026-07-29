@@ -1,0 +1,36 @@
+﻿fuente,escenario,baseline,modelo_o_baseline,regla_utilizada,nivel_fallback,uso_fallback,n_predicciones,porcentaje
+LOLO,LOLO_sin_sumapaz,media_bimestre,Baseline - media por bimestre,media_bimestre_localidades_entrenamiento,0,False,570,100.0
+LOLO,LOLO_sin_sumapaz,media_global,Baseline - media global,media_global_localidades_entrenamiento,0,False,570,100.0
+LOLO,LOLO_todas_las_localidades,media_bimestre,Baseline - media por bimestre,media_bimestre_localidades_entrenamiento,0,False,596,100.0
+LOLO,LOLO_todas_las_localidades,media_global,Baseline - media global,media_global_localidades_entrenamiento,0,False,596,100.0
+aleatoria_descriptiva,particion_aleatoria_v7_descriptiva,media_global,Baseline - media global,media_global,0,False,90,100.0
+aleatoria_descriptiva,particion_aleatoria_v7_descriptiva,media_localidad,Baseline - media por localidad,media_localidad,0,False,90,100.0
+aleatoria_descriptiva,particion_aleatoria_v7_descriptiva,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,90,100.0
+aleatoria_descriptiva,particion_aleatoria_v7_descriptiva,seasonal_naive,Baseline - seasonal naive,fallback_media_localidad_bimestre,1,True,35,38.888888888888886
+aleatoria_descriptiva,particion_aleatoria_v7_descriptiva,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,55,61.111111111111114
+rolling_origin,rolling_1_test_2021,media_global,Baseline - media global,media_global,0,False,120,100.0
+rolling_origin,rolling_1_test_2021,media_localidad,Baseline - media por localidad,media_localidad,0,False,120,100.0
+rolling_origin,rolling_1_test_2021,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,120,100.0
+rolling_origin,rolling_1_test_2021,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,120,100.0
+rolling_origin,rolling_2_test_2022,media_global,Baseline - media global,media_global,0,False,119,100.0
+rolling_origin,rolling_2_test_2022,media_localidad,Baseline - media por localidad,media_localidad,0,False,119,100.0
+rolling_origin,rolling_2_test_2022,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,119,100.0
+rolling_origin,rolling_2_test_2022,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,119,100.0
+rolling_origin,rolling_3_test_2023,media_global,Baseline - media global,media_global,0,False,120,100.0
+rolling_origin,rolling_3_test_2023,media_localidad,Baseline - media por localidad,media_localidad,0,False,120,100.0
+rolling_origin,rolling_3_test_2023,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,120,100.0
+rolling_origin,rolling_3_test_2023,seasonal_naive,Baseline - seasonal naive,fallback_media_localidad_bimestre,1,True,1,0.8333333333333334
+rolling_origin,rolling_3_test_2023,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,119,99.16666666666667
+rolling_origin,rolling_4_test_2024,media_global,Baseline - media global,media_global,0,False,117,100.0
+rolling_origin,rolling_4_test_2024,media_localidad,Baseline - media por localidad,media_localidad,0,False,117,100.0
+rolling_origin,rolling_4_test_2024,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,117,100.0
+rolling_origin,rolling_4_test_2024,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,117,100.0
+temporal_2023_2024,prueba_2024,media_global,Baseline - media global,media_global,0,False,117,100.0
+temporal_2023_2024,prueba_2024,media_localidad,Baseline - media por localidad,media_localidad,0,False,117,100.0
+temporal_2023_2024,prueba_2024,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,117,100.0
+temporal_2023_2024,prueba_2024,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,117,100.0
+temporal_2023_2024,validacion_2023,media_global,Baseline - media global,media_global,0,False,120,100.0
+temporal_2023_2024,validacion_2023,media_localidad,Baseline - media por localidad,media_localidad,0,False,120,100.0
+temporal_2023_2024,validacion_2023,media_localidad_bimestre,Baseline - media localidad-bimestre,media_localidad_bimestre,0,False,120,100.0
+temporal_2023_2024,validacion_2023,seasonal_naive,Baseline - seasonal naive,fallback_media_localidad_bimestre,1,True,1,0.8333333333333334
+temporal_2023_2024,validacion_2023,seasonal_naive,Baseline - seasonal naive,seasonal_naive_anio_anterior,0,False,119,99.16666666666667
