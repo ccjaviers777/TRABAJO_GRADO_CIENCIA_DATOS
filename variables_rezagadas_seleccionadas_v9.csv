@@ -1,0 +1,2 @@
+﻿variable,rezago_bimestres,nombre_feature_rezagada,criterio,periodo_seleccion,usar_en_modelos
+,,,"Ningun rezago cumplio simultaneamente n>=300, q Spearman<=0.10, |Spearman|>=0.30 y mejora>=0.05 frente al contemporaneo en 2020-2023.",2020-2023,False
