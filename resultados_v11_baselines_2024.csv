@@ -1,0 +1,5 @@
+﻿baseline,modelo_o_baseline,conjunto,anos_entrenamiento,ano_prueba,metrics_scale,MAE,RMSE,R2,n_registros
+media_localidad_bimestre,Baseline - media histÃ³rica localidad-bimestre,prueba_2024,2020-2023,2024,original,0.6876513953623248,0.9618449570795453,0.73622174311353,114
+media_localidad,Baseline - media histÃ³rica por localidad,prueba_2024,2020-2023,2024,original,0.7354556702781132,1.0637424064983692,0.6773721937316236,114
+seasonal_naive,Baseline - estacional ingenuo 2023,prueba_2024,2020-2023,2024,original,0.8233371335386551,1.21543705654785,0.5787947307815174,114
+media_global,Baseline - media histÃ³rica global,prueba_2024,2020-2023,2024,original,1.6155051258225013,1.9701894745692834,-0.10673804266805109,114

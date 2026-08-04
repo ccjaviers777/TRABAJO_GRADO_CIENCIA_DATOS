@@ -1,0 +1,54 @@
+﻿variable,estado,razon,tipo
+ALLSKY_SFC_PAR_TOT,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+ALLSKY_SFC_SW_DIFF,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+ALLSKY_SFC_SW_DNI,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+ALLSKY_SFC_UVA,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+ALLSKY_SFC_UVB,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+ALLSKY_SFC_UV_INDEX,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+BIMESTRE,excluida,Variable objetivo o bimestre original reemplazado por codificaciÃ³n cÃ­clica.,int64
+CLRSKY_SFC_PAR_TOT,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+CLRSKY_SFC_SW_DWN,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+T2MDEW,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+T2MWET,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+T2M_RANGE,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+TOA_SW_DWN,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WD10M,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WD2M,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WS10M_MAX,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WS10M_MIN,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WS10M_RANGE,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WS2M_MAX,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WS2M_MIN,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+WS2M_RANGE,excluida,"Excluida por redundancia o derivaciÃ³n, siguiendo v7-v10.",float64
+consumo_promedio,excluida,Variable objetivo o bimestre original reemplazado por codificaciÃ³n cÃ­clica.,float64
+facturas,excluida,Excluida por fuga de informaciÃ³n operativa respecto al target.,int64
+id_registro_v11,excluida,"Excluida como identificador espacial, territorial o metadato.",int64
+indice_tiempo,excluida,"Excluida como identificador espacial, territorial o metadato.",int64
+latitud,excluida,"Excluida como identificador espacial, territorial o metadato.",float64
+localidad,excluida,"Excluida como identificador espacial, territorial o metadato.",object
+longitud,excluida,"Excluida como identificador espacial, territorial o metadato.",float64
+metros_cubicos,excluida,Excluida por fuga de informaciÃ³n operativa respecto al target.,int64
+suscriptores_con_medidor,excluida,Excluida por fuga de informaciÃ³n operativa respecto al target.,int64
+suscriptores_facturados,excluida,Excluida por fuga de informaciÃ³n operativa respecto al target.,float64
+ALLSKY_SFC_LW_DWN,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+ALLSKY_SFC_SW_DWN,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+ALLSKY_SRF_ALB,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+BIMESTRE_cos,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+BIMESTRE_sin,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+CLOUD_AMT,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+GWETPROF,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+GWETROOT,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+GWETTOP,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+ONI,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+PRECTOTCORR,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+PRECTOTCORR_SUM,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+PS,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+QV2M,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+RH2M,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+T2M,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+T2M_MAX,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+T2M_MIN,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+TS,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+WS10M,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+WS2M,incluida,Variable predictora numÃ©rica usada por XGBoost.,float64
+año,incluida,Variable predictora numÃ©rica usada por XGBoost.,int64

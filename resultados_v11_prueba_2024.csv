@@ -1,0 +1,2 @@
+﻿modelo,descripcion,conjunto,anos_entrenamiento,ano_prueba,n_features,metrics_scale,MAE,RMSE,R2,n_registros
+XGBoost,"XGBRegressor sin coordenadas, sin localidad y sin Sumapaz",prueba_2024,2020-2023,2024,22,original_expm1,1.5829171224421468,1.9324936377563622,-0.06479252803547841,114
